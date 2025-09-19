@@ -64,6 +64,7 @@
   </a>
 </p>
 
+<h3 align="left">Github Stats:</h3>
 <!-- GitHub Stats -->
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaviyahr&show_icons=true&locale=en" alt="kaviyahr" />
